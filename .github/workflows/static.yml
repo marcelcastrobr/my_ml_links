@@ -31,14 +31,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       
-      - name: Setup node
+      - name: setup node
         uses: actions/setup-node@v3
         with:
-          node-version: 16.13.x
-          cache: npm
-
-      - name: Install
-        run: npm ci
+          node-version: 16
+      - run: npm ci
       
       # Installing markmap
       - name: Install markmap
