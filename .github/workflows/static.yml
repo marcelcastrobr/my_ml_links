@@ -35,8 +35,7 @@ jobs:
       - name: Install markmap
         run: |
           npm install markmap-cli --silent
-          npm markmap-lib README.md
-          mv README.html index.html
+          npx markmap-cli README.md -o index.html --no-open
 
       # Publishing page
       - name: Setup Pages
