@@ -31,24 +31,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       
-      - name: node
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16
-        
-      - name: ss
-        run: npm ci
-      
       # Installing markmap
       - name: Install markmap
-        run: npm install markmap-cli
-
-      # Creating mindmap
-      - name: Creating static webpage 
-        run: npm markmap-lib README.md
-      
-      - name: Change name 
-        run: mv README.html index.html
+        run: |
+          npm install markmap-cli
+          npm markmap-lib README.md
+          mv README.html index.html
 
       # Publishing page
       - name: Setup Pages
