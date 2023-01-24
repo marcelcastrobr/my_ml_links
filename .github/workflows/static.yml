@@ -35,8 +35,9 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
+        
+      - name: ss
         run: npm ci
-
       
       # Installing markmap
       - name: Install markmap
