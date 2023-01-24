@@ -34,7 +34,7 @@ jobs:
       # Installing markmap
       - name: Install markmap
         run: |
-          npm install markmap-cli
+          npm install markmap-cli --silent
           npm markmap-lib README.md
           mv README.html index.html
 
