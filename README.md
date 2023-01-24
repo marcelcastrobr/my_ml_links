@@ -13,15 +13,11 @@ Section to provide sagemaker links.
 
 Your own docker container
 
-- Another link
 
-- Yet another link
-
-- Yet Yet another link
 
 ### Evaluation
 
-- TensorBoard
+- [TensorBoard in SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-tensorboard.html)
 
 ### Deployment
 
