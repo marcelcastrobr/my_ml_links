@@ -66,4 +66,3 @@ Implements model server stack and can be added to any Docker container, making i
 
 Allows you to connect your IDE, such as VSCode, to Amazon SageMaker's training jobs, processing jobs, realtime inference endpoints, and SageMaker Studio notebook containers for fast interactive experimentation, remote debugging, and advanced troubleshooting.
 
-
