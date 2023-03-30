@@ -11,7 +11,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 
 - Model: [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - Model: [ColossalAI](https://github.com/hpcaitech/ColossalAI)
-
+- Model: [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf?utm_source=substack&utm_medium=email)
 #### Readings
 
 - Paper: [Transformer Modes: An Introduction and Catalog](https://arxiv.org/pdf/2302.07730.pdf)
