@@ -9,10 +9,16 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 
 #### Generative AI
 
+##### Models
 - Model: [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - Model: [ColossalAI](https://github.com/hpcaitech/ColossalAI)
 - Model: [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf?utm_source=substack&utm_medium=email)
-#### Readings
+
+##### Evaluation
+
+- Evaluation: [Holistic Evaluation of Language Models (HELM)](https://crfm.stanford.edu/helm/latest/?groups=1)
+
+##### Readings
 
 - Paper: [Transformer Modes: An Introduction and Catalog](https://arxiv.org/pdf/2302.07730.pdf)
 - Paper: [Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers](https://arxiv.org/pdf/2212.10559.pdf)
