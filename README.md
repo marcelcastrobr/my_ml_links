@@ -35,6 +35,9 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 #### Courses:
 - [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 
+#### Articles:
+- [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
+
 #### Internal:
 
 - [Overview of LLMs and ChatGPT: QUIP](https://quip-amazon.com/JdVgAZaYzFV4#CPU9AAGYhtf)
