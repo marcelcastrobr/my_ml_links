@@ -32,6 +32,9 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 
 - [Stable-Diffusion-ControlNet](https://huggingface.co/spaces/ArtGAN/Stable-Diffusion-ControlNet-WebUI)
 
+#### Courses:
+- [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
+
 #### Internal:
 
 - [Overview of LLMs and ChatGPT: QUIP](https://quip-amazon.com/JdVgAZaYzFV4#CPU9AAGYhtf)
