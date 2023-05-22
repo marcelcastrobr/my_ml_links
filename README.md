@@ -34,6 +34,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 
 #### Courses:
 - [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
+- [LangChain AI Handbook by Pinecone](https://www.pinecone.io/learn/langchain/)
 
 #### Articles:
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
