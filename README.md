@@ -56,8 +56,6 @@ Section to provide sagemaker links.
 
 Your own docker container
 
-
-
 ### Evaluation
 
 - [TensorBoard in SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-tensorboard.html)
@@ -69,6 +67,8 @@ Your own docker container
 Implements model server stack and can be added to any Docker container, making it deployable to SageMaker. See example [Amazon SageMaker Multi-Model Endpoints using your own algorithm container](https://github.com/aws/amazon-sagemaker-examples/blob/main/advanced_functionality/multi_model_bring_your_own/multi_model_endpoint_bring_your_own.ipynb) using pre-trained ResNet 18 and ResNet 152 models, both trained on the ImageNet datset.
 
 ### Serving
+
+- [Blog: Generative AI inference using AWS Inferentia2 and AWS Trainium](https://aws.amazon.com/blogs/machine-learning/achieve-high-performance-with-lowest-cost-for-generative-ai-inference-using-aws-inferentia2-and-aws-trainium-on-amazon-sagemaker/?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&sc_content=ml_infrastructure&trk=machine_learning&linkId=213679883)
 
 ### Monitoring
 
