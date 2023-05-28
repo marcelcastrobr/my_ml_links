@@ -13,10 +13,12 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - Model: [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - Model: [ColossalAI](https://github.com/hpcaitech/ColossalAI)
 - Model: [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf?utm_source=substack&utm_medium=email)
+- Model: [Falcon](https://huggingface.co/tiiuae/falcon-40b)
 
 ##### Evaluation
 
 - Evaluation: [Holistic Evaluation of Language Models (HELM)](https://crfm.stanford.edu/helm/latest/?groups=1)
+- [Open LLM Leaderboard by 🤗](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
 ##### Readings
 
