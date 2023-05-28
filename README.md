@@ -47,6 +47,9 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - [Overview of LLMs and ChatGPT: QUIP](https://quip-amazon.com/JdVgAZaYzFV4#CPU9AAGYhtf)
 - [Aligning AI with Human Values: QUIP ](https://quip-amazon.com/k2mQAFupUYuS/Aligning-AI-with-Human-Values)
 
+#### Debug:
+-[How 🤗 Accelerate runs very large models thanks to PyTorch ](https://huggingface.co/blog/accelerate-large-models)
+
 # Tools
 
 
