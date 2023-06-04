@@ -56,6 +56,9 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 ## Sagemaker
 Section to provide sagemaker links.
 
+### LLM
+- [Hugging Face LLM Container](https://huggingface.co/blog/sagemaker-huggingface-llm)
+
 ### Training
 
 - [Sagemaker Training Toolkit](https://github.com/aws/sagemaker-training-toolkit)
