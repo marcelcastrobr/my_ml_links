@@ -29,6 +29,8 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - Paper: [Prompting Is Programming: A Query Language For Large Language Models](https://arxiv.org/pdf/2212.06094.pdf?utm_source=substack&utm_medium=email)
 - Paper: [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 - Paper: [OpenAssistant Conversations -- Democratizing Large Language Model Alignment](https://arxiv.org/abs/2304.07327)
+- Paper: [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
+- Paper: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 
 #### Demos:
 
@@ -42,6 +44,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 
 #### Articles:
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
+- [Low-Rank Adaptation of Large Language Models (LoRA)](https://huggingface.co/docs/diffusers/main/en/training/lora)
 
 #### Internal:
 
