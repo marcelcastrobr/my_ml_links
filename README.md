@@ -47,6 +47,9 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - [Low-Rank Adaptation of Large Language Models (LoRA)](https://huggingface.co/docs/diffusers/main/en/training/lora)
 - [LLM Economics: ChatGPT vs Open-Source](https://towardsdatascience.com/llm-economics-chatgpt-vs-open-source-dfc29f69fec1)
 
+#### Videos:
+- [State of GPT by Andrej Karpathy](https://www.youtube.com/watch?v=bZQun8Y4L2A)
+
 #### Internal:
 
 - [Overview of LLMs and ChatGPT: QUIP](https://quip-amazon.com/JdVgAZaYzFV4#CPU9AAGYhtf)
