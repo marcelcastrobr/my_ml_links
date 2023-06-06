@@ -68,6 +68,8 @@ Section to provide sagemaker links.
 
 ### LLM
 - [Hugging Face LLM Container](https://huggingface.co/blog/sagemaker-huggingface-llm)
+- [Deep learning containers for large model inference](https://docs.aws.amazon.com/sagemaker/latest/dg/large-model-inference-dlc.html)
+- [Deploy BLOOM-176B and OPT-30B on Amazon SageMaker with large model inference Deep Learning Containers and DeepSpeed](https://aws.amazon.com/blogs/machine-learning/deploy-bloom-176b-and-opt-30b-on-amazon-sagemaker-with-large-model-inference-deep-learning-containers-and-deepspeed/)
 
 ### Training
 
