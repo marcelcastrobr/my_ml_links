@@ -49,6 +49,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
 - [Low-Rank Adaptation of Large Language Models (LoRA)](https://huggingface.co/docs/diffusers/main/en/training/lora)
 - [LLM Economics: ChatGPT vs Open-Source](https://towardsdatascience.com/llm-economics-chatgpt-vs-open-source-dfc29f69fec1)
+- [Building LLM applications for production by Chip Huyen](https://huyenchip.com/2023/04/11/llm-engineering.html)
 
 #### Videos:
 - [State of GPT by Andrej Karpathy](https://www.youtube.com/watch?v=bZQun8Y4L2A)
