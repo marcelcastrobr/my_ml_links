@@ -15,6 +15,9 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - Model: [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf?utm_source=substack&utm_medium=email)
 - Model: [Falcon](https://huggingface.co/tiiuae/falcon-40b)
 
+##### Data
+- [🆕 Appreciating the complexity of large language models data pipelines](https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/)
+
 ##### Evaluation
 
 - Evaluation: [Holistic Evaluation of Language Models (HELM)](https://crfm.stanford.edu/helm/latest/?groups=1)
@@ -43,13 +46,13 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - [LangChain AI Handbook by Pinecone](https://www.pinecone.io/learn/langchain/)
 - [State of GPT by Andrej Karpathy](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
 - [LLM Application Development by Deeplearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
-- [Generative AI by Google 🆕](https://www.cloudskillsboost.google/paths/118)
+- [🆕 Generative AI by Google ](https://www.cloudskillsboost.google/paths/118)
 
 #### Articles:
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
 - [Low-Rank Adaptation of Large Language Models (LoRA)](https://huggingface.co/docs/diffusers/main/en/training/lora)
 - [LLM Economics: ChatGPT vs Open-Source](https://towardsdatascience.com/llm-economics-chatgpt-vs-open-source-dfc29f69fec1)
-- [Building LLM applications for production by Chip Huyen 🆕](https://huyenchip.com/2023/04/11/llm-engineering.html)
+- [🆕 Building LLM applications for production by Chip Huyen ](https://huyenchip.com/2023/04/11/llm-engineering.html)
 
 #### Videos:
 - [State of GPT by Andrej Karpathy](https://www.youtube.com/watch?v=bZQun8Y4L2A)
@@ -72,6 +75,9 @@ Section to provide sagemaker links.
 - [Hugging Face LLM Container](https://huggingface.co/blog/sagemaker-huggingface-llm)
 - [Deep learning containers for large model inference](https://docs.aws.amazon.com/sagemaker/latest/dg/large-model-inference-dlc.html)
 - [Deploy BLOOM-176B and OPT-30B on Amazon SageMaker with large model inference Deep Learning Containers and DeepSpeed](https://aws.amazon.com/blogs/machine-learning/deploy-bloom-176b-and-opt-30b-on-amazon-sagemaker-with-large-model-inference-deep-learning-containers-and-deepspeed/)
+
+### JumpStart
+-[🆕 Introduction to SageMaker JumpStart - Text Generation with Falcon models](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text-generation-falcon.ipynb)
 
 ### Training
 
