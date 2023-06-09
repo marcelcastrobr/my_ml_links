@@ -36,6 +36,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - Paper: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 - Paper: [Elucidating the Design Space of Diffusion-Based Generative Models -neurips2022](https://openreview.net/pdf?id=k7FuTOWMOc7)
 - Paper: [An empirical analysis of compute-optimal large language model training -neurips2022](https://openreview.net/pdf?id=iBBcRUlOAPR)
+- Paper: 🆕 [Training Compute-Optimal Large Language Models by J. Hoffmann et al.](https://arxiv.org/abs/2203.15556)
 
 #### Demos:
 
