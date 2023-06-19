@@ -24,7 +24,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - [Open LLM Leaderboard by 🤗](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
 ##### Compliance
-- [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
+- 🆕 [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
 
 ##### Readings
 
@@ -40,6 +40,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - Paper: [Elucidating the Design Space of Diffusion-Based Generative Models -neurips2022](https://openreview.net/pdf?id=k7FuTOWMOc7)
 - Paper: [An empirical analysis of compute-optimal large language model training -neurips2022](https://openreview.net/pdf?id=iBBcRUlOAPR)
 - Paper: 🆕 [Training Compute-Optimal Large Language Models by J. Hoffmann et al.](https://arxiv.org/abs/2203.15556)
+- Book: 🆕 [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 
 #### Demos:
 
