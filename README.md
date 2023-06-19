@@ -18,10 +18,13 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 ##### Data
 - [🆕 Appreciating the complexity of large language models data pipelines](https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/)
 
-##### Evaluation
+##### Performance
 
 - Evaluation: [Holistic Evaluation of Language Models (HELM)](https://crfm.stanford.edu/helm/latest/?groups=1)
 - [Open LLM Leaderboard by 🤗](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+
+##### Compliance
+- [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
 
 ##### Readings
 
