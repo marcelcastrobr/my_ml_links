@@ -56,7 +56,20 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - [LangChain AI Handbook by Pinecone](https://www.pinecone.io/learn/langchain/)
 - [State of GPT by Andrej Karpathy](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
 - [LLM Application Development by Deeplearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
-- [🆕 Generative AI by Google ](https://www.cloudskillsboost.google/paths/118)
+- 🆕 [Generative AI by Google ](https://www.cloudskillsboost.google/paths/118)
+- 🆕 [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
+
+Week 1
+
+        Week 2
+        Week 3
+    Grades
+    Notes
+    Discussion Forums
+    Messages
+    Course Info
+
+Week 3](https://www.cloudskillsboost.google/paths/118)
 
 #### Articles:
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
