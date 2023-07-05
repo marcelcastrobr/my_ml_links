@@ -18,6 +18,9 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 ##### Data
 - [🆕 Appreciating the complexity of large language models data pipelines](https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/)
 
+##### RLHF
+- 🆕 [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](https://huggingface.co/blog/trl-peft)
+
 ##### Performance
 
 - Evaluation: [Holistic Evaluation of Language Models (HELM)](https://crfm.stanford.edu/helm/latest/?groups=1)
