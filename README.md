@@ -45,6 +45,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - Paper: [Elucidating the Design Space of Diffusion-Based Generative Models -neurips2022](https://openreview.net/pdf?id=k7FuTOWMOc7)
 - Paper: [An empirical analysis of compute-optimal large language model training -neurips2022](https://openreview.net/pdf?id=iBBcRUlOAPR)
 - Paper: 🆕 [Training Compute-Optimal Large Language Models by J. Hoffmann et al.](https://arxiv.org/abs/2203.15556)
+- Paper: 🆕 [LongNet: Scaling Transformers to 1,000,000,000 Tokens][https://arxiv.org/abs/2307.02486]
 - Paper: 🆕[Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
 - Book: 🆕 [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 
