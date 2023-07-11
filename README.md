@@ -125,3 +125,9 @@ Implements model server stack and can be added to any Docker container, making i
 
 Allows you to connect your IDE, such as VSCode, to Amazon SageMaker's training jobs, processing jobs, realtime inference endpoints, and SageMaker Studio notebook containers for fast interactive experimentation, remote debugging, and advanced troubleshooting.
 
+## AWS ML Chips
+
+### SDKs
+- [ 🤗 Optimum Neuron ](https://huggingface.co/docs/optimum-neuron/index)
+- [AWS Neuron](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/index.html)
+
