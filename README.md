@@ -14,6 +14,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - Model: [ColossalAI](https://github.com/hpcaitech/ColossalAI)
 - Model: [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf?utm_source=substack&utm_medium=email)
 - Model: [Falcon](https://huggingface.co/tiiuae/falcon-40b)
+- Model: [Claude 2: Model Card and Evaluations for Claude Models](https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf)
 
 ##### Data
 - [🆕 Appreciating the complexity of large language models data pipelines](https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/)
