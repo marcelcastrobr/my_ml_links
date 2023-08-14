@@ -22,6 +22,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 ##### Fine Tuning and RLHF
 - 🆕 [Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA](https://aws.amazon.com/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/)
 - 🆕 [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](https://huggingface.co/blog/trl-peft)
+- [Fine-tuning notebooks](https://platform.openai.com/docs/guides/fine-tuning/example-notebooks)
 
 ##### Performance
 
