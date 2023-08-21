@@ -15,6 +15,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - Model: [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf?utm_source=substack&utm_medium=email)
 - Model: [Falcon](https://huggingface.co/tiiuae/falcon-40b)
 - Model: [Claude 2: Model Card and Evaluations for Claude Models](https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf)
+- Model: [FalconLite](https://huggingface.co/amazon/FalconLite)
 
 ##### Data
 - [🆕 Appreciating the complexity of large language models data pipelines](https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/)
@@ -32,7 +33,10 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - Leaderboard: [Open LLM Leaderboard by 🤗](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
 ##### Compliance
-- 🆕 [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
+- [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
+
+##### Security
+-[Are aligned neural networks adversarially aligned?](https://arxiv.org/pdf/2306.15447.pdf), [video](https://www.youtube.com/watch?v=uqOfC3KSZFc&t=1s)
 
 ##### Readings
 
@@ -47,10 +51,11 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - Paper: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 - Paper: [Elucidating the Design Space of Diffusion-Based Generative Models -neurips2022](https://openreview.net/pdf?id=k7FuTOWMOc7)
 - Paper: [An empirical analysis of compute-optimal large language model training -neurips2022](https://openreview.net/pdf?id=iBBcRUlOAPR)
-- Paper: 🆕 [Training Compute-Optimal Large Language Models by J. Hoffmann et al.](https://arxiv.org/abs/2203.15556)
-- Paper: 🆕 [LongNet: Scaling Transformers to 1,000,000,000 Tokens][https://arxiv.org/abs/2307.02486]
-- Paper: 🆕[Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
-- Book: 🆕 [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
+- Paper: [Training Compute-Optimal Large Language Models by J. Hoffmann et al.](https://arxiv.org/abs/2203.15556)
+- Paper: [LongNet: Scaling Transformers to 1,000,000,000 Tokens][https://arxiv.org/abs/2307.02486]
+- Paper: [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
+- Paper: [Self-Alignment with Instruction Backtranslation](https://arxiv.org/pdf/2308.06259.pdf)
+- Book: [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 
 #### Demos:
 
@@ -61,15 +66,16 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - [LangChain AI Handbook by Pinecone](https://www.pinecone.io/learn/langchain/)
 - [State of GPT by Andrej Karpathy](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
 - [LLM Application Development by Deeplearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
-- 🆕 [Generative AI by Google ](https://www.cloudskillsboost.google/paths/118)
-- 🆕 [Generative AI with Large Language Models by DeepLearning.AI and AWS](https://www.coursera.org/learn/generative-ai-with-llms)
+- [Generative AI by Google ](https://www.cloudskillsboost.google/paths/118)
+- [Generative AI with Large Language Models by DeepLearning.AI and AWS](https://www.coursera.org/learn/generative-ai-with-llms)
 
 #### Articles:
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
 - [Low-Rank Adaptation of Large Language Models (LoRA)](https://huggingface.co/docs/diffusers/main/en/training/lora)
 - [LLM Economics: ChatGPT vs Open-Source](https://towardsdatascience.com/llm-economics-chatgpt-vs-open-source-dfc29f69fec1)
-- 🆕 [Building LLM applications for production by Chip Huyen ](https://huyenchip.com/2023/04/11/llm-engineering.html)
-- 🆕 [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/?utm_source=tldrai)
+- [Building LLM applications for production by Chip Huyen ](https://huyenchip.com/2023/04/11/llm-engineering.html)
+- [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/?utm_source=tldrai)
+
 #### Videos:
 - [State of GPT by Andrej Karpathy](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
