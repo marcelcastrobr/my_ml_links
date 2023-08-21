@@ -34,6 +34,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 
 ##### Compliance
 - [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 
 ##### Security
 - [Are aligned neural networks adversarially aligned?](https://arxiv.org/pdf/2306.15447.pdf), [video](https://www.youtube.com/watch?v=uqOfC3KSZFc&t=1s)
