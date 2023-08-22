@@ -98,15 +98,14 @@ Section to provide sagemaker links.
 - [Hugging Face LLM Container](https://huggingface.co/blog/sagemaker-huggingface-llm)
 - [Deep learning containers for large model inference](https://docs.aws.amazon.com/sagemaker/latest/dg/large-model-inference-dlc.html)
 - [Deploy BLOOM-176B and OPT-30B on Amazon SageMaker with large model inference Deep Learning Containers and DeepSpeed](https://aws.amazon.com/blogs/machine-learning/deploy-bloom-176b-and-opt-30b-on-amazon-sagemaker-with-large-model-inference-deep-learning-containers-and-deepspeed/)
+- [Deploy large models at high performance using FasterTransformer on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/deploy-large-models-at-high-performance-using-fastertransformer-on-amazon-sagemaker/)
 
 ### JumpStart
--[🆕 Introduction to SageMaker JumpStart - Text Generation with Falcon models](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text-generation-falcon.ipynb)
+- [🆕 Introduction to SageMaker JumpStart - Text Generation with Falcon models](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text-generation-falcon.ipynb)
 
 ### Training
 
 - [Sagemaker Training Toolkit](https://github.com/aws/sagemaker-training-toolkit)
-
-Your own docker container
 
 ### Evaluation
 
@@ -116,7 +115,7 @@ Your own docker container
 
 - [SageMaker Inference Toolkit](https://github.com/aws/sagemaker-inference-toolkit)
 
-Implements model server stack and can be added to any Docker container, making it deployable to SageMaker. See example [Amazon SageMaker Multi-Model Endpoints using your own algorithm container](https://github.com/aws/amazon-sagemaker-examples/blob/main/advanced_functionality/multi_model_bring_your_own/multi_model_endpoint_bring_your_own.ipynb) using pre-trained ResNet 18 and ResNet 152 models, both trained on the ImageNet datset.
+
 
 ### Serving
 
@@ -131,8 +130,6 @@ Implements model server stack and can be added to any Docker container, making i
 #### Development
 
 - [SageMaker SSH Help](https://github.com/aws-samples/sagemaker-ssh-helper)
-
-Allows you to connect your IDE, such as VSCode, to Amazon SageMaker's training jobs, processing jobs, realtime inference endpoints, and SageMaker Studio notebook containers for fast interactive experimentation, remote debugging, and advanced troubleshooting.
 
 ## AWS ML Chips
 
