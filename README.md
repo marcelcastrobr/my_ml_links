@@ -58,6 +58,10 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - Paper: [Self-Alignment with Instruction Backtranslation](https://arxiv.org/pdf/2308.06259.pdf)
 - Book: [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 
+#### Evaluation
+- [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
+- [h2o-LLM-eval](https://github.com/h2oai/h2o-LLM-eval)
+
 #### Demos:
 
 - [Stable-Diffusion-ControlNet](https://huggingface.co/spaces/ArtGAN/Stable-Diffusion-ControlNet-WebUI)
