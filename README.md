@@ -64,7 +64,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [helm](https://crfm.stanford.edu/helm/latest/)
 - [alpaca_eval](https://tatsu-lab.github.io/alpaca_eval/)
-- [chatbot-arena-leaderboard][https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard]
+- [chatbot-arena-leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 
 #### Demos:
 
