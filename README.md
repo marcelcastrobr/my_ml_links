@@ -16,6 +16,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - Model: [Falcon](https://huggingface.co/tiiuae/falcon-40b)
 - Model: [Claude 2: Model Card and Evaluations for Claude Models](https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf)
 - Model: [FalconLite](https://huggingface.co/amazon/FalconLite)
+- Model: [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
 
 ##### Data
 - [🆕 Appreciating the complexity of large language models data pipelines](https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/)
