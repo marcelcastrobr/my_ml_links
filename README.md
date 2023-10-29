@@ -1,6 +1,56 @@
 # ML_Journey
 Objective: Repo to capture ML links and learning in a mindmap using markdown.
 
+# Evaluation
+
+## Benchmark
+
+- [StandEval](https://scandeval.github.io/)
+  - QA
+    - Dataset: ScandiQA (based on MKQA)
+    - Metric: Cosine similarity
+  - Sentiment Analysis:
+    - Dataset: Danish:AngryTweets, Norwegian: NoReC, Swedish: SweReC
+    - Metric: Matthew’s Corre- lation Coefficient and macro-average F1.
+  - Linguistic Acceptability: 
+    - Dataset: ScaLA based on CoLA (Corpus of Linguistic Acceptability) dataset
+    - Metric: 
+- [SuperLIM](https://github.com/spraakbanken/SuperLim-2)
+  - QA: 
+    - Dataset:.swefaq
+    - Metric: Pseudoalpha = (Accuracy - 109/2049) / (1940/2049)
+  - Sentiment Analysis:
+    - Dataset: absabank-imm
+    - Metric: Alpha
+- [NorBench](https://github.com/ltgoslo/norbench)
+  - QA: 
+    - Dataset: NorQuAD.
+    - Metric: token-level F1
+  - Sentiment Analysis:
+    - Dataset: The Norwegian Review Corpus (NoReC; 2nd release) (Velldal et al., 2018). 
+    - Metric: macro F1
+  - Linguistic Acceptability: 
+    - Dataset: NoCoLA Norwegian corpus of linguistic acceptance (NoCoLA; Jentoft and Samuel, 2023). 
+    - Metric: Matthews correlation coefficient (MCC; Matthews, 1975).
+  - Translation: 
+    - Dataset: Bokma ̊l–Nynorsk bitexts. 
+    - Metric: SacreBLEU (Lin and Och, 2004; Post, 2018)
+
+## Dataset
+
+- [ScadiQA](https://scandeval.github.io/)
+
+  - [MKQA (Multilingual Knowledge Questions and Answers)](https://aclanthology.org/2021.tacl-1.82/)
+  - [Natural Questions (NQ)](https://aclanthology.org/Q19-1026/)
+
+- [NorBench](https://github.com/ltgoslo/norbench)
+
+- [SuperLim](https://huggingface.co/datasets/sbx/superlim-2)
+
+  - GLUE/SuperGLUE
+
+    
+
 # Models
 
 ## Deep Learning Models
