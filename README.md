@@ -59,6 +59,10 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 
 #### Generative AI
 
+##### SDKs
+- [AI21 with Bedrock](https://docs.ai21.com/docs/python-sdk-with-amazon-bedrock)
+
+
 ##### Models
 - Model: [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - Model: [ColossalAI](https://github.com/hpcaitech/ColossalAI)
