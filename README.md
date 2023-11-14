@@ -49,7 +49,9 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 
   - GLUE/SuperGLUE
 
-    
+## Tools
+- [RAGAS: Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
+
 
 # Models
 
