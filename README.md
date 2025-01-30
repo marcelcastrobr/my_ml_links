@@ -1,9 +1,21 @@
 # ML_Journey
 Objective: Repo to capture ML links and learning in a mindmap using markdown.
 
-# Evaluation
+# 2025
+## Generative AI
+### Models
+### Architectures
+### RL
+- [GRPO](https://arxiv.org/abs/2402.03300)
+### Dataset
+- [Open Thoughts - Reasoning dataset](https://github.com/open-thoughts/open-thoughts)
+## Tools
 
-## Benchmark
+
+# < 2024
+## Evaluation
+
+### Benchmark
 
 - [StandEval](https://scandeval.github.io/)
   - QA
@@ -36,7 +48,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
     - Dataset: Bokma ̊l–Nynorsk bitexts. 
     - Metric: SacreBLEU (Lin and Och, 2004; Post, 2018)
 
-## Dataset
+### Dataset
 
 - [ScadiQA](https://scandeval.github.io/)
 
@@ -49,23 +61,23 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 
   - GLUE/SuperGLUE
 
-## Tools
+### Tools
 - [RAGAS: Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
 
 
-# Models
+## Models
 
-## Deep Learning Models
+### Deep Learning Models
 
-### Transformers
+#### Transformers
 
-#### Generative AI
+##### Generative AI
 
-##### SDKs
+###### SDKs
 - [AI21 with Bedrock](https://docs.ai21.com/docs/python-sdk-with-amazon-bedrock)
 
 
-##### Models
+###### Models
 - Model: [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - Model: [ColossalAI](https://github.com/hpcaitech/ColossalAI)
 - Model: [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf?utm_source=substack&utm_medium=email)
@@ -74,29 +86,29 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - Model: [FalconLite](https://huggingface.co/amazon/FalconLite)
 - Model: [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
 
-##### Data
+###### Data
 - [🆕 Appreciating the complexity of large language models data pipelines](https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/)
 
-##### Fine Tuning and RLHF
+###### Fine Tuning and RLHF
 - 🆕 [Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA](https://aws.amazon.com/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/)
 - 🆕 [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](https://huggingface.co/blog/trl-peft)
 - [Fine-tuning notebooks](https://platform.openai.com/docs/guides/fine-tuning/example-notebooks)
 
-##### Performance
+###### Performance
 
 - Optimization: [Optimizing Memory Usage for Training LLMs and Vision Transformers in PyTorch](https://lightning.ai/pages/community/tutorial/pytorch-memory-vit-llm/)
 - Evaluation: [Holistic Evaluation of Language Models (HELM)](https://crfm.stanford.edu/helm/latest/?groups=1)
 - Bias: [Evaluating Language Model Bias with 🤗 Evaluate](https://huggingface.co/blog/evaluating-llm-bias)
 - Leaderboard: [Open LLM Leaderboard by 🤗](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
-##### Compliance
+###### Compliance
 - [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 
-##### Security
+###### Security
 - [Are aligned neural networks adversarially aligned?](https://arxiv.org/pdf/2306.15447.pdf), [video](https://www.youtube.com/watch?v=uqOfC3KSZFc&t=1s)
 
-##### Readings
+###### Readings
 
 - Paper: [Transformer Modes: An Introduction and Catalog](https://arxiv.org/pdf/2302.07730.pdf)
 - Paper: [Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers](https://arxiv.org/pdf/2212.10559.pdf)
@@ -115,7 +127,7 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - Paper: [Self-Alignment with Instruction Backtranslation](https://arxiv.org/pdf/2308.06259.pdf)
 - Book: [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 
-#### Evaluation
+##### Evaluation
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
 - [h2o-LLM-eval](https://github.com/h2oai/h2o-LLM-eval)
 - [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
@@ -123,11 +135,11 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - [alpaca_eval](https://tatsu-lab.github.io/alpaca_eval/)
 - [chatbot-arena-leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 
-#### Demos:
+##### Demos:
 
 - [Stable-Diffusion-ControlNet](https://huggingface.co/spaces/ArtGAN/Stable-Diffusion-ControlNet-WebUI)
 
-#### Courses:
+##### Courses:
 - [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 - [LangChain AI Handbook by Pinecone](https://www.pinecone.io/learn/langchain/)
 - [State of GPT by Andrej Karpathy](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
@@ -135,70 +147,70 @@ Objective: Repo to capture ML links and learning in a mindmap using markdown.
 - [Generative AI by Google ](https://www.cloudskillsboost.google/paths/118)
 - [Generative AI with Large Language Models by DeepLearning.AI and AWS](https://www.coursera.org/learn/generative-ai-with-llms)
 
-#### Articles:
+##### Articles:
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
 - [Low-Rank Adaptation of Large Language Models (LoRA)](https://huggingface.co/docs/diffusers/main/en/training/lora)
 - [LLM Economics: ChatGPT vs Open-Source](https://towardsdatascience.com/llm-economics-chatgpt-vs-open-source-dfc29f69fec1)
 - [Building LLM applications for production by Chip Huyen ](https://huyenchip.com/2023/04/11/llm-engineering.html)
 - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/?utm_source=tldrai)
 
-#### Videos:
+##### Videos:
 - [State of GPT by Andrej Karpathy](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
-#### Internal:
+##### Internal:
 
 - [Overview of LLMs and ChatGPT: QUIP](https://quip-amazon.com/JdVgAZaYzFV4#CPU9AAGYhtf)
 - [Aligning AI with Human Values: QUIP ](https://quip-amazon.com/k2mQAFupUYuS/Aligning-AI-with-Human-Values)
 
-#### Debug:
+##### Debug:
 -[How 🤗 Accelerate runs very large models thanks to PyTorch ](https://huggingface.co/blog/accelerate-large-models)
 
-# Tools
+## Tools
 
 
-## Sagemaker
+### Sagemaker
 Section to provide sagemaker links.
 
-### LLM
+#### LLM
 - [Hugging Face LLM Container](https://huggingface.co/blog/sagemaker-huggingface-llm)
 - [Deep learning containers for large model inference](https://docs.aws.amazon.com/sagemaker/latest/dg/large-model-inference-dlc.html)
 - [Deploy BLOOM-176B and OPT-30B on Amazon SageMaker with large model inference Deep Learning Containers and DeepSpeed](https://aws.amazon.com/blogs/machine-learning/deploy-bloom-176b-and-opt-30b-on-amazon-sagemaker-with-large-model-inference-deep-learning-containers-and-deepspeed/)
 - [Deploy large models at high performance using FasterTransformer on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/deploy-large-models-at-high-performance-using-fastertransformer-on-amazon-sagemaker/)
 
-### JumpStart
+#### JumpStart
 - [🆕 Introduction to SageMaker JumpStart - Text Generation with Falcon models](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/text-generation-falcon.ipynb)
 
-### Training
+#### Training
 
 - [Sagemaker Training Toolkit](https://github.com/aws/sagemaker-training-toolkit)
 
-### Evaluation
+#### Evaluation
 
 - [TensorBoard in SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-tensorboard.html)
 
-### Deployment
+#### Deployment
 
 - [SageMaker Inference Toolkit](https://github.com/aws/sagemaker-inference-toolkit)
 
 
 
-### Serving
+#### Serving
 
 - [Blog: Generative AI inference using AWS Inferentia2 and AWS Trainium](https://aws.amazon.com/blogs/machine-learning/achieve-high-performance-with-lowest-cost-for-generative-ai-inference-using-aws-inferentia2-and-aws-trainium-on-amazon-sagemaker/?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&sc_content=ml_infrastructure&trk=machine_learning&linkId=213679883)
 
-### Monitoring
+#### Monitoring
 
-### Maintenance
+#### Maintenance
 
-### Others
+#### Others
 
-#### Development
+##### Development
 
 - [SageMaker SSH Help](https://github.com/aws-samples/sagemaker-ssh-helper)
 
-## AWS ML Chips
+### AWS ML Chips
 
-### SDKs
+#### SDKs
 - [ 🤗 Optimum Neuron ](https://huggingface.co/docs/optimum-neuron/index)
 - [AWS Neuron](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/index.html)
 
